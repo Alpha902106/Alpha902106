@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- Currently learning **C++** and **Python**
+-Currently building a strong foundation in C++ and Python
 - Interested in **software development** and **AI fundamentals**
 - Focused on **discipline, consistency, and continuous growth**
 - Building skills one step at a time
