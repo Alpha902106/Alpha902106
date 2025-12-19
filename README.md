@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alpha 👋
 
-<!--
-**Alpha902106/Alpha902106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSIT (AI) Student**  
+💻 **Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Currently learning **C++** and **Python**
+- Interested in **software development** and **AI fundamentals**
+- Focused on **discipline, consistency, and continuous growth**
+- Building skills one step at a time
+
+---
+
+### 🛠️ Tech I'm Learning
+- **Languages:** C++, Python  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** Programming fundamentals, problem-solving, algorithms
+
+---
+
+### 🎯 Goals
+- Strengthen core programming skills  
+- Build beginner-friendly projects  
+- Learn AI concepts and apply them step by step  
+
+---
+
+> **Faith • Growth • Code**  
+> Learning with purpose and discipline.
